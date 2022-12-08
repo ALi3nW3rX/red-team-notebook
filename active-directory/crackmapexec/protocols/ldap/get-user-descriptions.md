@@ -9,4 +9,4 @@ Three options are available:
 * **PASSWORDPOLICY**: To look for password according to the complexity requirements of windows
 * **MINLENGTH**: Choose the minimum length of the password (may be obtained from `--pass-pol`)
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

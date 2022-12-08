@@ -4,7 +4,7 @@
 sudo apt install crackmapexec
 ```
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ## Target Formats
 

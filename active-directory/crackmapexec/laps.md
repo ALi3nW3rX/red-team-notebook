@@ -10,7 +10,7 @@ Therefore, a new core option has been added `--laps !` If you have compromised a
 
 `crackmapexec smb <ip> -u user-can-read-laps -p pass --laps`
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the default administrator name is not administrator add the user after the option

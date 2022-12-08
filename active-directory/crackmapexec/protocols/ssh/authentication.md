@@ -19,4 +19,4 @@ SSH         127.0.0.1       22     127.0.0.1        [+] user:password
 #~ cme http 192.168.1.0/24 --port 2222
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

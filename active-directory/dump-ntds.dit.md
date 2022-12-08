@@ -37,4 +37,4 @@ expose %df% z:
 #~ cme smb 192.168.1.100 -u UserNAme -H 'HASH HERE' --ntds vss
 ```
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>

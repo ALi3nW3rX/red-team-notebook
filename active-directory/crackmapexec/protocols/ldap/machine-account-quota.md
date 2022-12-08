@@ -8,4 +8,4 @@ This module retrieves the MachineAccountQuota domain-level attribute. It's usefu
 cme ldap <ip> -u user -p pass -M maq
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>

@@ -17,6 +17,6 @@ SSH         127.0.0.1       22     127.0.0.1        [+] user:password
 By default CME will exit after a successful login is found. Using the `--continue-on-success` flag will continue spraying even after a valid password is found. Usefull for spraying a single password against a large user list.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 You can also use [Hydra](https://github.com/vanhauser-thc/thc-hydra) available by default on Kali to bruteforce SSH password, it's faster and better :)

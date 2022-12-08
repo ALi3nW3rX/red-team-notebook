@@ -18,7 +18,7 @@ Requires Domain Admin or Local Admin Priviledges on target Domain Controller
 #~ cme smb 192.168.1.100 -u UserNAme -p 'PASSWORDHERE' --ntds vss
 ```
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also DCSYNC with the computer account of the DC

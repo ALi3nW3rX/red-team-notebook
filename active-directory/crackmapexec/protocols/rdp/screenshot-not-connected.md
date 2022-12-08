@@ -6,4 +6,4 @@ You can perform a screenshot of the login page of the remote host using RDP with
 # crackmapexec rdp <ip> --nla-screenshot
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>

@@ -9,4 +9,4 @@ $ crackmapexec smb <ip> -u user -p pass -M keepass_discovery
 $ crackmapexec smb <ip> -u user -p pass -M keepass_trigger -o KEEPASS_CONFIG_PATH="path_from_module_discov
 ```
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

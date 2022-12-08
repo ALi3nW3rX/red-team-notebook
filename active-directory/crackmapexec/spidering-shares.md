@@ -18,7 +18,7 @@ The module `spider_plus` allows you to list and dump all files from all readable
 crackmapexec smb 10.10.10.10 -u 'user' -p 'pass' -M spider_plus
 ```
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ### Dump all files
 
@@ -28,4 +28,4 @@ Using the option `-o READ_ONLY=false` all files will be copied on the host
 crackmapexec smb 10.10.10.10 -u 'user' -p 'pass' -M spider_plus -o READ_ONLY=false
 ```
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>

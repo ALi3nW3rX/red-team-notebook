@@ -8,7 +8,7 @@ Using the module Lsassy from [@pixis ](https://twitter.com/HackAndDo)you can dum
 #~ cme smb 192.168.255.131 -u administrator -p pass -M lsassy
 ```
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 ### Using nanodump
 

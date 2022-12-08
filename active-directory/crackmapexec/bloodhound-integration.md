@@ -15,4 +15,4 @@ bh_pass = pass
 
 Then, every time cme will find a valid credential, it will be added to bloodhound.
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>

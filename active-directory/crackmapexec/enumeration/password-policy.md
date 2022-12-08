@@ -6,4 +6,4 @@
 #~ cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' --pass-pol
 ```
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
