@@ -1,0 +1,13 @@
+# OWASP Top 10 2021
+
+1. [Broken Access Control](https://owasp.org/Top10/A01\_2021-Broken\_Access\_Control/) - Restrictions are not appropriately implemented to prevent users from accessing other users accounts, viewing sensitive data, accessing unauthorized functionality, modifying data, etc.
+2. &#x20;[Cryptographic Failures](https://owasp.org/Top10/A02\_2021-Cryptographic\_Failures/) - Failures related to cryptography which often leads to sensitive data exposure or system compromise.
+3. [Injection](https://owasp.org/Top10/A03\_2021-Injection/) -  User-supplied data is not validated, filtered, or sanitized by the application. Some examples of injections are SQL injection, command injection, LDAP injection, etc.
+4. [Insecure Design](https://owasp.org/Top10/A04\_2021-Insecure\_Design/) -  These issues happen when the application is not designed with security in mind.
+5. [Security Misconfiguration](https://owasp.org/Top10/A05\_2021-Security\_Misconfiguration/) - Missing appropriate security hardening across any part of the application stack, insecure default configurations, open cloud storage, verbose error messages which disclose too much information.
+6. [Vulnerable and Outdated Components](https://owasp.org/Top10/A06\_2021-Vulnerable\_and\_Outdated\_Components/) - Using components (both client-side and server-side) that are vulnerable, unsupported, or out of date.
+7. [Identification and Authentication Failures](https://owasp.org/Top10/A07\_2021-Identification\_and\_Authentication\_Failures/) - Authentication-related attacks that target user's identity, authentication, and session management.
+8. [Software and Data Integrity Failures](https://owasp.org/Top10/A08\_2021-Software\_and\_Data\_Integrity\_Failures/) - Software and data integrity failures relate to code and infrastructure that does not protect against integrity violations. An example of this is where an application relies upon plugins, libraries, or modules from untrusted sources, repositories, and content delivery networks (CDNs).
+9. [Security Logging and Monitoring Failures](https://owasp.org/Top10/A09\_2021-Security\_Logging\_and\_Monitoring\_Failures/) - This category is to help detect, escalate, and respond to active breaches. Without logging and monitoring, breaches cannot be detected.
+10. [Server-Side Request Forgery (SSRF)](https://owasp.org/Top10/A10\_2021-Server-Side\_Request\_Forgery\_\(SSRF\)/) - SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).&#x20;
+
