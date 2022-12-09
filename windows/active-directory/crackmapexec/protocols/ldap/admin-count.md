@@ -1,0 +1,11 @@
+# Admin Count
+
+
+
+> **adminCount** Indicates that a given object has had its ACLs changed to a more secure value by the system because it was a member of one of the administrative groups (directly or transitively).
+
+```
+cme ldap 192.168.255.131 -u adm -p pass --admin-count
+```
+
+<figure><img src="../../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
