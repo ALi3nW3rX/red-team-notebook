@@ -2,9 +2,20 @@
 
 * [ALi3NW3RX - Red Team Guide](README.md)
 
+## WRITE UPS / WALKTHROUGHS
+
+* [Write Ups](write-ups-walkthroughs/write-ups/README.md)
+  * [Write ups & Walkthroughs](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/README.md)
+    * [Hack The Box](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/README.md)
+      * [Pollution](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/pollution.md)
+      * [HackTheBox - Blackfield](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/hackthebox-blackfield.md)
+    * [Try Hack Me](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/README.md)
+      * [Invoke](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/invoke.md)
+      * [Attacking Kerberos](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/attacking-kerberos.md)
+
 ## Certification Notes
 
-* [COURSES](certification-notes/courses/README.md)
+* [Courses](certification-notes/courses/README.md)
   * [Hack The Box](certification-notes/courses/hack-the-box/README.md)
     * [CPTS](certification-notes/courses/hack-the-box/cpts/README.md)
       * [Common Terms (Cheat Sheet)](certification-notes/courses/hack-the-box/cpts/common-terms-cheat-sheet.md)
@@ -35,7 +46,7 @@
 
 ## WINDOWS
 
-* [ACTIVE DIRECTORY](windows/active-directory/README.md)
+* [Active Directory](windows/active-directory/README.md)
   * [Active\_Directory\_Cheat\_Sheet](windows/active-directory/active\_directory\_cheat\_sheet.md)
   * [Active Directory Tool](windows/active-directory/active-directory-tool/README.md)
     * [Active Directory Attack Map](windows/active-directory/active-directory-tool/active-directory-attack-map.md)
@@ -191,39 +202,34 @@
 
 * [Creating Linux Environment Variables](linux/creating-linux-environment-variables.md)
 
-***
+## WEB APPS
 
-* [RESOURCES](resources.md)
-* [TOOLS](tools/README.md)
-  * [ChatGPT](tools/chatgpt.md)
-  * [NETWORK ENUMERATION](tools/network-enumeration/README.md)
-    * [GOBUSTER](tools/network-enumeration/gobuster.md)
-    * [SNMP](tools/network-enumeration/snmp.md)
-    * [NMAP](tools/network-enumeration/nmap.md)
-    * [SMBCLIENT](tools/network-enumeration/smbclient.md)
-  * [WEB ENUMERATION](tools/web-enumeration/README.md)
-    * [WHATWEB](tools/web-enumeration/whatweb.md)
-    * [CURL](tools/web-enumeration/curl.md)
-  * [EDITORS](tools/editors/README.md)
-    * [VIM](tools/editors/vim.md)
-  * [XFREERDP](tools/xfreerdp.md)
-* [WEB APPS](web-apps/README.md)
-  * [XXE](web-apps/xxe.md)
-* [PROGRAMMING](programming/README.md)
-  * [GO](programming/go/README.md)
-    * [GoLangBot.Com](programming/go/golangbot.com.md)
-    * [Ping Sweeper](programming/go/ping-sweeper.md)
-* [DATABASES](databases/README.md)
-  * [REDIS](databases/redis.md)
-* [WRITE-UP'S](write-ups/README.md)
-  * [Hack The Box](write-ups/hack-the-box/README.md)
-    * [Pollution](write-ups/hack-the-box/pollution.md)
-    * [HackTheBox - Blackfield](write-ups/hack-the-box/hackthebox-blackfield.md)
-  * [TryHackMe.com Write Ups](write-ups/tryhackme.com-write-ups/README.md)
-    * [Invoke](write-ups/tryhackme.com-write-ups/invoke.md)
-    * [Attacking Kerberos](write-ups/tryhackme.com-write-ups/attacking-kerberos.md)
-* [Temp - Notes](temp-notes.md)
+* [Web Apps](web-apps/web-apps/README.md)
+  * [XXE](web-apps/web-apps/xxe.md)
 
-## Common Tools
+## Common Tool Commands
 
-* [SSH](common-tools/ssh.md)
+* [PRIMARY TOOLS](common-tool-commands/primary-tools/README.md)
+  * [CURL](common-tool-commands/primary-tools/curl.md)
+  * [XFREERDP](common-tool-commands/primary-tools/xfreerdp.md)
+  * [SSH](common-tool-commands/primary-tools/ssh.md)
+  * [GOBUSTER](common-tool-commands/primary-tools/gobuster.md)
+  * [SNMP](common-tool-commands/primary-tools/snmp.md)
+  * [NMAP](common-tool-commands/primary-tools/nmap.md)
+  * [SMBCLIENT](common-tool-commands/primary-tools/smbclient.md)
+  * [WHATWEB](common-tool-commands/primary-tools/whatweb.md)
+* [EDITORS](common-tool-commands/editors/README.md)
+  * [VIM](common-tool-commands/editors/vim.md)
+* [MISC TOOLS](common-tool-commands/misc-tools/README.md)
+  * [ChatGPT](common-tool-commands/misc-tools/chatgpt.md)
+
+## MISC
+
+* [RESOURCES](misc/resources.md)
+* [PROGRAMMING](misc/programming/README.md)
+  * [GO](misc/programming/go/README.md)
+    * [GoLangBot.Com](misc/programming/go/golangbot.com.md)
+    * [Ping Sweeper](misc/programming/go/ping-sweeper.md)
+* [DATABASES](misc/databases/README.md)
+  * [REDIS](misc/databases/redis.md)
+* [Temp - Notes](misc/temp-notes.md)

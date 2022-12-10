@@ -155,17 +155,17 @@ The command that THM wants us to run is:
 
 depending on how you installed Kerbrute. However if your like me and don't read directions you might get something that looks like this below.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 To fix this we simply have to edit our /etc/hosts file with our IP and DNS information.
 
 <mark style="color:green;">`sudo nano /etc/hosts`</mark>
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Once you save and exit we can run the above command again to start enumerating usernames.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Great! Now we have a list of possible usernames that we can work with.
 
@@ -182,15 +182,15 @@ Great! Now we have a list of possible usernames that we can work with.
 
 For Task 3 we need to RDP into the machine. I preferer Remmina but you can use what ever you feel comfortable with.&#x20;
 
-![](<../../.gitbook/assets/image (13).png>) ![](<../../.gitbook/assets/image (26).png>) ![](<../../.gitbook/assets/image (28).png>)![](<../../.gitbook/assets/image (61).png>)
+![](<../../../../.gitbook/assets/image (13).png>) ![](<../../../../.gitbook/assets/image (26).png>) ![](<../../../../.gitbook/assets/image (28).png>)![](<../../../../.gitbook/assets/image (61).png>)
 
 If done correctly you should be brought to a screen that looks like this.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 To make it full screen go ahead and click on this button on the left menu panel
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Harvesting Tickets w/ Rubeus
 
@@ -200,7 +200,7 @@ We are going to open a command prompt on our windows machine and navigate over t
 
 This is going to tell Rubeus to harvest tickets every 30 seconds
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### Brute-Forcing / Password-Spraying w/ Rubeus
 
@@ -212,13 +212,13 @@ Before password spraying with Rubeus, you need to add the domain controller doma
 
 <mark style="color:green;">**`echo 10.10.142.7 CONTROLLER.local >> C:\Windows\System32\drivers\etc\hosts`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 Now we can run a brute force attack:
 
 <mark style="color:green;">**`Rubeus.exe brute /password:Password1 /noticket`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -226,11 +226,11 @@ Now we can run a brute force attack:
 
 1. Which domain admin do we get a ticket for when harvesting tickets? We can run <mark style="color:green;">`klist`</mark> to see our tickets our machine.    <mark style="background-color:green;">**Administrator**</mark> &#x20;
 
-<img src="../../.gitbook/assets/image (53).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/image (53).png" alt="" data-size="original">
 
 1. Which domain controller do we get a ticket for when harvesting tickets? We see that when we ran the harvester our 'user' was    <mark style="background-color:green;">**CONTOLLER-1$**</mark> &#x20;
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../../../.gitbook/assets/image (32).png>)
 
 </details>
 
@@ -242,7 +242,7 @@ Navigate to the downloads folder in a terminal and run the following command:
 
 We get 2 hashes, one for SQLservice and another from HTTPservice
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If for some reason Rubeus.exe disappears from your windows machine, you can host it on your kali vm and re download it. Don't run it just save it back to the downloads folder and run it from the command prompt.
@@ -252,9 +252,9 @@ Now, we can take that giant hash and crack it with Hashcat or John to get a clea
 
 
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### Kerberoasting w/ Impacket
 
@@ -264,7 +264,7 @@ With Impacket we don't have to RDP into a machine or even be connected. We can d
 
 Cool! We get the same hashes, and we did it remotely!&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 We can now copy and paste those hashes into a text file and run it against hashcat to get the passwords. However if we run it like this it won't give us the correct answers for the questions. Also when we use Rubeus.exe we krbtgs hashes back and when we run impacket we get asrep hashes back.&#x20;
 
@@ -303,7 +303,7 @@ In our windows machine we are going to run the command:
 
 <mark style="color:green;">**`C:\Users\Administrator\Downloads>Rubeus.exe asreproast`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 If you notice we get the <mark style="color:green;">`krb5asrep`</mark> hashes that we got before with impacket in the previous steps. When you get these hashes from Rubeus we need to add a <mark style="color:green;">**`23$`**</mark> after <mark style="color:green;">**`$krb5asrep$`**</mark> or hashcat won't be able to crack it. Impacket does this automatically for us.
 
@@ -311,7 +311,7 @@ Once we have those hashes in a text file we can use the following command to cra
 
 <mark style="color:green;">**`hashcat -a 0 -m 18200 hashes2.txt Pass.txt`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -339,7 +339,7 @@ Unfortunately, on this machine Mimikatz was not working properly, I'm assuming b
 
 Then check to make sure the ticket was injected correctly by running: <mark style="color:green;">**`klist`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 ### KRBTGT Overview
 
@@ -359,15 +359,15 @@ Navigate to /Downloads (in an elevated shell) and run <mark style="color:green;"
 
 <mark style="color:green;">**`mimikatz# lsadump::lsa /inject /name:krbtgt`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ### Create a Golden
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### Create a Silver Ticket
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 To create the silver ticket the syntax is almost identical. We need to change out the NTLM hash with a service account NTLM hash, change out the SID to the service account and change the ID to 1103.&#x20;
 
