@@ -13,36 +13,38 @@
       * [Invoke](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/invoke.md)
       * [Attacking Kerberos](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/attacking-kerberos.md)
 
-## Certification Notes
+## Education
 
-* [Courses](certification-notes/courses/README.md)
-  * [Hack The Box](certification-notes/courses/hack-the-box/README.md)
-    * [CPTS](certification-notes/courses/hack-the-box/cpts/README.md)
-      * [Common Terms (Cheat Sheet)](certification-notes/courses/hack-the-box/cpts/common-terms-cheat-sheet.md)
-      * [OWASP Top 10 2021](certification-notes/courses/hack-the-box/cpts/owasp-top-10-2021.md)
-      * [Page 3](certification-notes/courses/hack-the-box/cpts/page-3.md)
-      * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
-  * [Pentester Academy](certification-notes/courses/pentester-academy/README.md)
-    * [CRTP](certification-notes/courses/pentester-academy/crtp/README.md)
-      * [CRTP Step By Step In Objectives](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/README.md)
-        * [Obj 1 Enumeration](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-1-enumeration.md)
-        * [Obj 2 Enumeration](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-2-enumeration.md)
-        * [Obj 3 Enumeration](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-3-enumeration.md)
-        * [Obj 4 Enumeration](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-4-enumeration.md)
-        * [Obj 5 Local Priv Esc](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-5-local-priv-esc.md)
-        * [Obj 6 BloodHound](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-6-bloodhound.md)
-        * [Obj 7 Derivative Local Admin](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-7-derivative-local-admin.md)
-        * [Obj 8 Golden Ticket / DCSync](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-8-golden-ticket-dcsync.md)
-        * [Obj 9 Silver Ticket for Host](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-9-silver-ticket-for-host.md)
-        * [Obj 10 Skeleton Key](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-10-skeleton-key.md)
-        * [Obj 11 DSRM](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-11-dsrm.md)
-        * [Obj 12 DCSync](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-12-dcsync.md)
-        * [Obj 13 Security Descriptors](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-13-security-descriptors.md)
-        * [Obj 14 Kerberoast Pass Crack](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-14-kerberoast-pass-crack.md)
-        * [Obj 15 Unconstrained Delegation](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-15-unconstrained-delegation.md)
-      * [CRTP Course Videos](certification-notes/courses/pentester-academy/crtp/crtp-course-videos.md)
-      * [CRTP Diagrams](certification-notes/courses/pentester-academy/crtp/crtp-diagrams.md)
-    * [CRTE](certification-notes/courses/pentester-academy/crte.md)
+* [Courses](education/courses/README.md)
+  * [OSCP](education/courses/oscp.md)
+  * [Pentester Academy](education/courses/pentester-academy/README.md)
+    * [CRTP](education/courses/pentester-academy/crtp/README.md)
+      * [CRTP Step By Step In Objectives](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/README.md)
+        * [Obj 1 Enumeration](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-1-enumeration.md)
+        * [Obj 2 Enumeration](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-2-enumeration.md)
+        * [Obj 3 Enumeration](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-3-enumeration.md)
+        * [Obj 4 Enumeration](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-4-enumeration.md)
+        * [Obj 5 Local Priv Esc](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-5-local-priv-esc.md)
+        * [Obj 6 BloodHound](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-6-bloodhound.md)
+        * [Obj 7 Derivative Local Admin](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-7-derivative-local-admin.md)
+        * [Obj 8 Golden Ticket / DCSync](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-8-golden-ticket-dcsync.md)
+        * [Obj 9 Silver Ticket for Host](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-9-silver-ticket-for-host.md)
+        * [Obj 10 Skeleton Key](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-10-skeleton-key.md)
+        * [Obj 11 DSRM](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-11-dsrm.md)
+        * [Obj 12 DCSync](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-12-dcsync.md)
+        * [Obj 13 Security Descriptors](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-13-security-descriptors.md)
+        * [Obj 14 Kerberoast Pass Crack](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-14-kerberoast-pass-crack.md)
+        * [Obj 15 Unconstrained Delegation](education/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-15-unconstrained-delegation.md)
+      * [CRTP Course Videos](education/courses/pentester-academy/crtp/crtp-course-videos.md)
+      * [CRTP Diagrams](education/courses/pentester-academy/crtp/crtp-diagrams.md)
+    * [CRTE](education/courses/pentester-academy/crte.md)
+  * [Hack The Box](education/courses/hack-the-box/README.md)
+    * [CPTS](education/courses/hack-the-box/cpts/README.md)
+      * [Common Terms (Cheat Sheet)](education/courses/hack-the-box/cpts/common-terms-cheat-sheet.md)
+      * [OWASP Top 10 2021](education/courses/hack-the-box/cpts/owasp-top-10-2021.md)
+      * [Page 3](education/courses/hack-the-box/cpts/page-3.md)
+      * [Page 2](education/courses/hack-the-box/cpts/page-2.md)
+  * [API Penetration Testing Course](education/courses/api-penetration-testing-course.md)
 
 ## WINDOWS
 
@@ -207,9 +209,16 @@
 * [Web Apps](web-apps/web-apps/README.md)
   * [XXE](web-apps/web-apps/xxe.md)
 
+## DATABASES
+
+* [Postgresql](databases/postgresql.md)
+* [Redis](databases/redis.md)
+
 ## Common Tool Commands
 
 * [PRIMARY TOOLS](common-tool-commands/primary-tools/README.md)
+  * [SQLMap](common-tool-commands/primary-tools/sqlmap.md)
+  * [Chisel](common-tool-commands/primary-tools/chisel.md)
   * [CURL](common-tool-commands/primary-tools/curl.md)
   * [XFREERDP](common-tool-commands/primary-tools/xfreerdp.md)
   * [SSH](common-tool-commands/primary-tools/ssh.md)
@@ -223,13 +232,18 @@
 * [MISC TOOLS](common-tool-commands/misc-tools/README.md)
   * [ChatGPT](common-tool-commands/misc-tools/chatgpt.md)
 
+## SCRIPTS
+
+* [BASH](scripts/bash.md)
+
 ## MISC
 
-* [RESOURCES](misc/resources.md)
 * [PROGRAMMING](misc/programming/README.md)
   * [GO](misc/programming/go/README.md)
     * [GoLangBot.Com](misc/programming/go/golangbot.com.md)
     * [Ping Sweeper](misc/programming/go/ping-sweeper.md)
-* [DATABASES](misc/databases/README.md)
-  * [REDIS](misc/databases/redis.md)
+  * [NIM](misc/programming/nim.md)
+* [RESOURCES](misc/resources.md)
+* [DATABASES](misc/databases.md)
+* [LINUX DISTROS & RESOURCES](misc/linux-distros-and-resources.md)
 * [Temp - Notes](misc/temp-notes.md)
