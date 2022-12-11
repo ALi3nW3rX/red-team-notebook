@@ -1,4 +1,4 @@
-# Redis
+# REDIS
 
 {% embed url="https://redis.io/commands/lindex/" %}
 
