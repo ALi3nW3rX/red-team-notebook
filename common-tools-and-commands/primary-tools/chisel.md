@@ -20,6 +20,8 @@
 
 ## Links
 
+{% embed url="https://github.com/jpillora/chisel/releases" %}
+
 {% embed url="https://dev.to/jmau111/getting-started-with-chisel-in-ctfs-o76/" %}
 
 {% embed url="https://0xdf.gitlab.io/2020/08/10/tunneling-with-chisel-and-ssf-update.html" %}
