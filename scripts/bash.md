@@ -1,4 +1,4 @@
-# BASH
+# Bash
 
 ## LSE.SH
 

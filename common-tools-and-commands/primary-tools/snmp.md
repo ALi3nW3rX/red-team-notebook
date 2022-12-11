@@ -24,3 +24,5 @@ A tool such as onesixtyone can be used to brute force the community string names
 ```
 onesixtyone -c dict.txt 10.129.42.254
 ```
+
+{% embed url="https://book.hacktricks.xyz/network-services-pentesting/pentesting-snmp/snmp-rce" %}

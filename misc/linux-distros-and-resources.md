@@ -1,4 +1,4 @@
-# LINUX DISTROS & RESOURCES
+# Linux Distros & Resources
 
 ## DISTROS
 
