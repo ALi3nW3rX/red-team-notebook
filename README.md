@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/alienwalpaper.jpg
 coverY: -93.19465081723627
-layout: editorial
 ---
 
 # ALi3NW3RX - Red Team Guide
