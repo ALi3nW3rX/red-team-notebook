@@ -15,6 +15,8 @@
 
 ## Education
 
+* [Free Courses](education/free-courses/README.md)
+  * [API Penetration Testing Course](education/free-courses/api-penetration-testing-course.md)
 * [Courses](certification-notes/courses/README.md)
   * [OSCP](education/courses/oscp.md)
   * [Pentester Academy](certification-notes/courses/pentester-academy/README.md)
@@ -44,7 +46,6 @@
       * [OWASP Top 10 2021](certification-notes/courses/hack-the-box/cpts/owasp-top-10-2021.md)
       * [Page 3](certification-notes/courses/hack-the-box/cpts/page-3.md)
       * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
-  * [API Penetration Testing Course](education/courses/api-penetration-testing-course.md)
 
 ## WINDOWS
 
