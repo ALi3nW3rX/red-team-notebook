@@ -91,7 +91,7 @@ socket in a way forbidden by its access permissions" $HTTP_listener.Start()
 <SNIP>
 ```
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Inveigh Zero / The C# version
 

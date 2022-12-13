@@ -49,8 +49,8 @@
         * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/initial-enumeration-of-the-domain.md)
         * [LLMNR/NBT-NS Poisoning - from Linux](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-linux.md)
         * [LLMNR/NBT-NS Poisoning - from Windows](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-windows.md)
-        * [Page 4](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-4.md)
-        * [Page 5](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-5.md)
+        * [Password Spraying Overview](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/password-spraying-overview.md)
+        * [Enumerating & Retrieving Password Policies](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/enumerating-and-retrieving-password-policies.md)
         * [Page 1](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
       * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
 
