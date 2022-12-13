@@ -51,6 +51,9 @@
         * [LLMNR/NBT-NS Poisoning - from Windows](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-windows.md)
         * [Password Spraying Overview](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/password-spraying-overview.md)
         * [Enumerating & Retrieving Password Policies](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/enumerating-and-retrieving-password-policies.md)
+        * [Password Spraying - Making a Target User List](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/password-spraying-making-a-target-user-list.md)
+        * [Page 4](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-4.md)
+        * [Page 3](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-3.md)
         * [Page 1](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
       * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
 
