@@ -12,7 +12,7 @@ Make sure the password is empty&#x20;
 cme smb 10.10.10.178 -u 'a' -p ''
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 You can also check this **** behavior with **smbclient** or **rpcclient**
 

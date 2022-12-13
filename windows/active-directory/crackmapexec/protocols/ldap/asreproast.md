@@ -30,7 +30,7 @@ cme ldap 192.168.0.104 -u user.txt -p '' --asreproast output.txt
 Set the password value to '' to perform the test without authentication&#x20;
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### With authentication
 
