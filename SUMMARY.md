@@ -44,7 +44,7 @@
     * [CPTS](certification-notes/courses/hack-the-box/cpts/README.md)
       * [Common Terms (Cheat Sheet)](certification-notes/courses/hack-the-box/cpts/common-terms-cheat-sheet.md)
       * [OWASP Top 10 2021](certification-notes/courses/hack-the-box/cpts/owasp-top-10-2021.md)
-      * [Page 3](certification-notes/courses/hack-the-box/cpts/page-3.md)
+      * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/initial-enumeration-of-the-domain.md)
       * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
 
 ## WINDOWS
