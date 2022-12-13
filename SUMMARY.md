@@ -46,6 +46,7 @@
       * [OWASP Top 10 2021](certification-notes/courses/hack-the-box/cpts/owasp-top-10-2021.md)
       * [ACTIVE DIRECTORY ENUMERATION & ATTACKS](education/courses/hack-the-box/cpts/initial-enumeration-of-the-domain.md)
         * [Enum Cheat Sheet](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/enum-cheat-sheet.md)
+        * [Tools of The Trade Download](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/tools-of-the-trade-download.md)
         * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/initial-enumeration-of-the-domain.md)
         * [LLMNR/NBT-NS Poisoning - from Linux](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-linux.md)
         * [LLMNR/NBT-NS Poisoning - from Windows](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-windows.md)

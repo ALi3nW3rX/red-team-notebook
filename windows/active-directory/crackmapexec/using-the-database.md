@@ -70,4 +70,4 @@ You can export the datadase in a CSV format
 cmedb (test)(smb) > export shares detailed file.csv
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
