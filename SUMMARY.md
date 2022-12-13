@@ -44,7 +44,14 @@
     * [CPTS](certification-notes/courses/hack-the-box/cpts/README.md)
       * [Common Terms (Cheat Sheet)](certification-notes/courses/hack-the-box/cpts/common-terms-cheat-sheet.md)
       * [OWASP Top 10 2021](certification-notes/courses/hack-the-box/cpts/owasp-top-10-2021.md)
-      * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/initial-enumeration-of-the-domain.md)
+      * [ACTIVE DIRECTORY ENUMERATION & ATTACKS](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/README.md)
+        * [Enum Cheat Sheet](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/enum-cheat-sheet.md)
+        * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/initial-enumeration-of-the-domain.md)
+        * [Page 7](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-7.md)
+        * [Page 3](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-3.md)
+        * [Page 4](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-4.md)
+        * [Page 5](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-5.md)
+        * [Page 1](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
       * [Page 2](certification-notes/courses/hack-the-box/cpts/page-2.md)
 
 ## WINDOWS
