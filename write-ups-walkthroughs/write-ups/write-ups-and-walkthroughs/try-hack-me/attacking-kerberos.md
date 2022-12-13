@@ -155,7 +155,7 @@ The command that THM wants us to run is:
 
 depending on how you installed Kerbrute. However if your like me and don't read directions you might get something that looks like this below.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 To fix this we simply have to edit our /etc/hosts file with our IP and DNS information.
 
