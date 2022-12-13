@@ -48,7 +48,7 @@
         * [Enum Cheat Sheet](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/enum-cheat-sheet.md)
         * [Initial Enumeration of the Domain](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/initial-enumeration-of-the-domain.md)
         * [LLMNR/NBT-NS Poisoning - from Linux](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-linux.md)
-        * [Page 3](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-3.md)
+        * [LLMNR/NBT-NS Poisoning - from Windows](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/llmnr-nbt-ns-poisoning-from-windows.md)
         * [Page 4](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-4.md)
         * [Page 5](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-5.md)
         * [Page 1](education/courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
