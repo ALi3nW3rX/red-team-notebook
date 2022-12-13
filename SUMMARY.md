@@ -230,6 +230,7 @@
   * [SMB](common-tools-and-commands/protocols/smb.md)
   * [SSH](common-tools-and-commands/protocols/ssh.md)
 * [Primary Tools](common-tools-and-commands/primary-tools/README.md)
+  * [Responder](common-tools-and-commands/primary-tools/responder.md)
   * [SQLMap](common-tools-and-commands/primary-tools/sqlmap.md)
   * [Chisel](common-tools-and-commands/primary-tools/chisel.md)
   * [CURL](common-tools-and-commands/primary-tools/curl.md)
