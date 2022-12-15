@@ -1,5 +1,12 @@
 # SQLMap
 
+
+
+Cheat Sheet Link\
+[https://cdn.comparitech.com/wp-content/uploads/2021/07/sqlmap-Cheat-Sheet.pdf](https://cdn.comparitech.com/wp-content/uploads/2021/07/sqlmap-Cheat-Sheet.pdf)
+
+
+
 Target: At least one of these options has to be provided to define the target(s)
 
 ```
