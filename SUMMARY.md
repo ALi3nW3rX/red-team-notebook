@@ -213,6 +213,8 @@
 
 ## LINUX
 
+* [Linux Terminal Commands](linux/linux-terminal-commands.md)
+* [Path to Root](linux/path-to-root.md)
 * [Creating Linux Environment Variables](linux/creating-linux-environment-variables.md)
 
 ## WEB APPS
