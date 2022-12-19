@@ -257,7 +257,6 @@
 
 ## SCRIPTS
 
-* [Untitled](scripts/untitled.md)
 * [Enum Scripts](scripts/bash.md)
 
 ## MISC
