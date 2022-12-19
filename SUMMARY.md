@@ -258,7 +258,7 @@
 ## SCRIPTS
 
 * [Untitled](scripts/untitled.md)
-* [Enum Scripts](scripts/enum-scripts.md)
+* [Enum Scripts](scripts/bash.md)
 
 ## MISC
 
@@ -268,5 +268,4 @@
     * [Ping Sweeper](misc/programming/go/ping-sweeper.md)
   * [NIM](misc/programming/nim.md)
 * [Resources](misc/resources.md)
-* [Linux Distros & Resources](misc/linux-distros-and-resources.md)
 * [Temp - Notes](misc/temp-notes.md)
