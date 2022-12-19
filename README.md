@@ -1,4 +1,8 @@
 ---
+description: >-
+  This is my personal notebook. It's a constant work in progress and I'm still
+  working on consolidation and yeah some shit is fucked up! If you don't like
+  don't look at it. Sucka!!!
 cover: .gitbook/assets/alienwalpaper.jpg
 coverY: -93.19465081723627
 ---

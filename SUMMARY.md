@@ -37,7 +37,6 @@
         * [Obj 13 Security Descriptors](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-13-security-descriptors.md)
         * [Obj 14 Kerberoast Pass Crack](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-14-kerberoast-pass-crack.md)
         * [Obj 15 Unconstrained Delegation](certification-notes/courses/pentester-academy/crtp/crtp-step-by-step-in-objectives/obj-15-unconstrained-delegation.md)
-      * [CRTP Course Videos](certification-notes/courses/pentester-academy/crtp/crtp-course-videos.md)
       * [CRTP Diagrams](certification-notes/courses/pentester-academy/crtp/crtp-diagrams.md)
     * [CRTE](certification-notes/courses/pentester-academy/crte.md)
   * [Hack The Box](certification-notes/courses/hack-the-box/README.md)
@@ -218,7 +217,6 @@
 * [Linux Terminal Commands](linux/linux-terminal-commands.md)
 * [Path to Root](linux/path-to-root.md)
 * [Bash Cheat Sheet](linux/bash-cheat-sheet.md)
-* [Creating Linux Environment Variables](linux/creating-linux-environment-variables.md)
 
 ## WEB APPS
 
