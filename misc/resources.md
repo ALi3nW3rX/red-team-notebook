@@ -1,5 +1,7 @@
 # Resources
 
+{% embed url="https://www.ired.team/" %}
+
 {% embed url="https://ppn.snovvcrash.rocks/" %}
 
 {% embed url="https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html" %}

@@ -209,6 +209,7 @@
   * [SafetyKatz](windows/tools/safetykatz.md)
   * [Rubeus](windows/tools/rubeus.md)
   * [Kekeo](windows/tools/kekeo.md)
+* [Scripts](windows/scripts.md)
 * [Attacks](windows/attacks/README.md)
   * [Print Nightmare](windows/attacks/print-nightmare.md)
 
@@ -225,6 +226,7 @@
 
 ## DATABASES
 
+* [Mysql](databases/mysql.md)
 * [Postgresql](databases/postgresql.md)
 * [Redis](misc/databases/redis.md)
 
@@ -255,7 +257,8 @@
 
 ## SCRIPTS
 
-* [Bash](scripts/bash.md)
+* [Untitled](scripts/untitled.md)
+* [Enum Scripts](scripts/enum-scripts.md)
 
 ## MISC
 
@@ -265,6 +268,5 @@
     * [Ping Sweeper](misc/programming/go/ping-sweeper.md)
   * [NIM](misc/programming/nim.md)
 * [Resources](misc/resources.md)
-* [Databases](misc/databases/README.md)
 * [Linux Distros & Resources](misc/linux-distros-and-resources.md)
 * [Temp - Notes](misc/temp-notes.md)
