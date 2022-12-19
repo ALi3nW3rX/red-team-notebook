@@ -1,5 +1,13 @@
 # SSH
 
+{% embed url="https://github.com/dennyzhang/cheatsheet-ssh-A4/blob/master/README.org" %}
+
+Generate new ssh keys
+
+```
+ssh-keygen -t rsa
+```
+
 The SSH authorized\_keys file is a file that contains a list of public keys that are authorized to log in to the server. This file is used to prevent unauthorized users from connecting to the SSH server.
 
 SSH daemon on the server side checks whether the SSH key is correct or not by calculating the SSH key fingerprint.  If the SSH key is correct, it allows the user to log in without asking username or password.
@@ -59,13 +67,5 @@ There could be a number of reasons why your ssh public key is not working. Make 
 
 Yes, it is possible to use a public and private key with one account on different systems. You will need to generate a separate key for each system, and add the public key to the authorized\_keys file on each system.\
 
-
-<mark style="color:green;">**Generate new SSH keys**</mark>
-
-```
-ssh-keygen -t rsa
-```
-
-##
 
 {% embed url="https://www.howtouselinux.com/post/ssh-authorized_keys-file" %}
