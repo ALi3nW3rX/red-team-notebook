@@ -2,17 +2,6 @@
 
 * [ALi3NW3RX - Red Team Guide](README.md)
 
-## WRITE UPS / WALKTHROUGHS
-
-* [Write Ups](write-ups-walkthroughs/write-ups/README.md)
-  * [Write ups & Walkthroughs](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/README.md)
-    * [Hack The Box](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/README.md)
-      * [Pollution](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/pollution.md)
-      * [HackTheBox - Blackfield](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/hack-the-box/hackthebox-blackfield.md)
-    * [Try Hack Me](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/README.md)
-      * [Invoke](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/invoke.md)
-      * [Attacking Kerberos](write-ups-walkthroughs/write-ups/write-ups-and-walkthroughs/try-hack-me/attacking-kerberos.md)
-
 ## Education
 
 * [Free Courses](education/free-courses/README.md)

