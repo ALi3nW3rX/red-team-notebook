@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ALi3NW3RX - Red Team Guide](README.md)
+* [🧧 Resources](resources.md)
 
 ## Education
 
@@ -255,5 +256,4 @@
     * [GoLangBot.Com](misc/programming/go/golangbot.com.md)
     * [Ping Sweeper](misc/programming/go/ping-sweeper.md)
   * [NIM](misc/programming/nim.md)
-* [Resources](misc/resources.md)
 * [Temp - Notes](misc/temp-notes.md)
