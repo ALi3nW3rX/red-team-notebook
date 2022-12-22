@@ -6,10 +6,6 @@ Exploiting GPP SYSVOL - cname password / Groups.xml
 
 {% embed url="https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html" %}
 
-### Setting up network between Vbox and VMware
-
-{% embed url="https://www.sysprobs.com/setup-network-virtualbox-vmware-virtual-machines" %}
-
 ### Check Recycle bin
 
 you need the SID for the user that you want to check the recycle bin for.

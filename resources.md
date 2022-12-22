@@ -26,6 +26,21 @@ https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 
 {% embed url="https://www.vulnhub.com/" %}
 
+### Install Obsidian on Kali
+
+```powershell
+# Grab the latest appimage release  
+https://github.com/TheAssassin/AppImageLauncher/releases
+
+# Install Appimage => replace image with your release
+sudo apt install ./appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
+
+# Download the Obsidian appimage file from their official site
+Right click the Obsidian.Appimage and launch with AppImage Launcher.
+
+Boom Done!!!!
+```
+
 ## TJ NULL's OSCP BOX LIST
 
 ```
