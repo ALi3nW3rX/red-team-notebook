@@ -6,7 +6,7 @@ Testing if account exist without kerberos protocol
 #~ cme ldap 192.168.1.0/24 -u users.txt -p '' -k
 ```
 
-<figure><img src="../../../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Testing credentials
 

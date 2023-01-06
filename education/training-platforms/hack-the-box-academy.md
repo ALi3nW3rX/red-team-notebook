@@ -27,4 +27,4 @@ CONS:
 If you have a .edu email or can obtain one this is the best bang for the buck on the market as of now!&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

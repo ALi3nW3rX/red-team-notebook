@@ -1,4 +1,4 @@
-# Scripts
+# ✍ Scripts
 
 ### Powershell Mafia
 
