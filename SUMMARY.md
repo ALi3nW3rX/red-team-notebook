@@ -5,6 +5,12 @@
 
 ## Education
 
+* [⚪ Training Platforms](education/training-platforms/README.md)
+  * [Hack The Box](education/training-platforms/hack-the-box.md)
+  * [Hack The Box Academy](education/training-platforms/hack-the-box-academy.md)
+  * [Try Hack Me](education/training-platforms/try-hack-me.md)
+  * [Pentester Lab](education/training-platforms/pentester-lab.md)
+  * [Pentester Academy](education/training-platforms/pentester-academy.md)
 * [🟣 Courses](education/courses/README.md)
   * [Free Courses](education/courses/free-courses/README.md)
     * [API Penetration Testing Course](education/courses/free-courses/api-penetration-testing-course.md)

@@ -9,7 +9,7 @@ Checking if **Null Session** is enabled on the network, can be very useful on a 
 #~ cme smb 10.10.10.161 --groups
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also reproduce this behavior with `smbclient` or `rpcclient`
 
