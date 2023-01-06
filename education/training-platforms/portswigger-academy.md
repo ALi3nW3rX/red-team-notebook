@@ -6,4 +6,4 @@
 This is all about using BURP and web app security. Great Resource!!!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
