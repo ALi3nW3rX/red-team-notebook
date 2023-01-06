@@ -24,8 +24,6 @@ https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 ```
 {% endcode %}
 
-{% embed url="https://www.vulnhub.com/" %}
-
 ### Install Obsidian on Kali
 
 ```powershell
@@ -46,3 +44,7 @@ Boom Done!!!!
 ```
 https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
 ```
+
+### Practice Arenas
+
+{% embed url="https://www.vulnhub.com/" %}

@@ -49,6 +49,17 @@
 
 ## WINDOWS
 
+* [🟢 Recon](windows/recon.md)
+* [🟢 Enumeration](windows/enumeration.md)
+* [🟡 FootHold](windows/foothold.md)
+* [🟡 Local Priv Esc](windows/local-priv-esc.md)
+* [🟠 Credential Harvesting](windows/credential-harvesting.md)
+* [🟠 Post Exploitation](windows/post-exploitation.md)
+* [🟠 Persistence](windows/persistence.md)
+* [🔴 Lateral Movement & Pivoting](windows/lateral-movement-and-pivoting.md)
+* [🔴 Attacks](windows/attacks.md)
+* [🔴 Forests & Trusts](windows/forests-and-trusts.md)
+* [🔵 Defense & Hardening](windows/defense-and-hardening.md)
 * [Active Directory](windows/active-directory/README.md)
   * [Active\_Directory\_Cheat\_Sheet](windows/active-directory/active\_directory\_cheat\_sheet.md)
   * [Active Directory Tool](windows/active-directory/active-directory-tool/README.md)
@@ -200,8 +211,8 @@
   * [Rubeus](windows/tools/rubeus.md)
   * [Kekeo](windows/tools/kekeo.md)
 * [Scripts](windows/scripts.md)
-* [Attacks](windows/attacks/README.md)
-  * [Print Nightmare](windows/attacks/print-nightmare.md)
+* [Attacks](windows/attacks-1/README.md)
+  * [Print Nightmare](windows/attacks-1/print-nightmare.md)
 
 ## LINUX
 
