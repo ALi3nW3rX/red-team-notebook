@@ -60,7 +60,7 @@
 
 ## C2
 
-* [Cobalt Strike](c2/cobalt-strike.md)
+* [🔴 Cobalt Strike](c2/cobalt-strike.md)
 
 ## WINDOWS
 

@@ -1,4 +1,4 @@
-# Cobalt Strike
+# 🔴 Cobalt Strike
 
 ## Cobalt Strike CheatSheet
 
