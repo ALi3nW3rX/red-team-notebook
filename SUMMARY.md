@@ -191,6 +191,7 @@
     * [Spooler / WebDAV](windows/tools/crackmapexec/spooler-webdav.md)
     * [MS Teams Cookies](windows/tools/crackmapexec/ms-teams-cookies.md)
   * [BloodHound](windows/tools/bloodhound.md)
+  * [SharpCollection](windows/tools/sharpcollection.md)
   * [DSRM](windows/tools/dsrm.md)
   * [MimiKatz.ps1](windows/tools/mimikatz.ps1/README.md)
     * [Golden Ticket](windows/tools/mimikatz.ps1/golden-ticket.md)
