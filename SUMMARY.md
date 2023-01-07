@@ -58,6 +58,10 @@
           * [Page 1](education/courses/paid-courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
         * [Page 2](education/courses/paid-courses/hack-the-box/cpts/page-2.md)
 
+## C2
+
+* [Cobalt Strike](c2/cobalt-strike.md)
+
 ## WINDOWS
 
 * [Active Directory Attack Map](windows/active-directory/active-directory-tool/active-directory-attack-map.md)
