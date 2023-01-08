@@ -2,6 +2,8 @@
 
 * [👽 ALi3NW3RX - Home Page](README.md)
 * [🧧 Resources](resources.md)
+* [MITRE ATT\&CK](https://attack.mitre.org/)
+* [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Education
 
@@ -60,7 +62,8 @@
 
 ## C2
 
-* [🔴 Cobalt Strike](c2/cobalt-strike.md)
+* [🔴 Cobalt Strike](c2/cobalt-strike/README.md)
+  * [Videos](c2/cobalt-strike/videos.md)
 
 ## WINDOWS
 
