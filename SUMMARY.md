@@ -215,6 +215,7 @@
 ## WEB APPS
 
 * [Web Apps](web-apps/web-apps/README.md)
+  * [LFI](web-apps/web-apps/lfi.md)
   * [XXE](web-apps/web-apps/xxe.md)
 
 ## DATABASES
