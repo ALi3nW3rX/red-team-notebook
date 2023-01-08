@@ -211,6 +211,8 @@
 * [Linux Terminal Commands](linux/linux-terminal-commands.md)
 * [Path to Root](linux/path-to-root.md)
 * [Bash Cheat Sheet](linux/bash-cheat-sheet.md)
+* [Priv Esc](linux/priv-esc/README.md)
+  * [LD\_Preload / SETENV](linux/priv-esc/ld\_preload-setenv.md)
 
 ## WEB APPS
 

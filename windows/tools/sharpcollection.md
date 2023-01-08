@@ -4,4 +4,4 @@
 
 Use the 4.7\_any from the github repo. All of these should work out of the box seamlessly!
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

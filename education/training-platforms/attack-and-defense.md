@@ -6,4 +6,4 @@
 This is the free version of Pentester Academy. There are a lot of good modules in here for free!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
