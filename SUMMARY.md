@@ -213,11 +213,13 @@
   * [Inveigh](windows/tools/inveigh.md)
   * [Rubeus](windows/tools/rubeus.md)
   * [Ligolo / SSH Tunneling](windows/tools/ligolo-ssh-tunneling.md)
-  * [FilelessNTDllReflection](windows/tools/filelessntdllreflection.md)
-  * [FilelessRemotePE](windows/tools/filelessremotepe.md)
-  * [ExecRemoteAssembly](windows/tools/execremoteassembly.md)
+  * [SQLRecon](windows/tools/sqlrecon.md)
+  * [Forensia](windows/tools/forensia.md)
   * [Certipy](windows/tools/certipy.md)
-* [✍ Scripts](windows/scripts.md)
+* [✍ Scripts](windows/scripts/README.md)
+  * [FilelessNTDllReflection](windows/scripts/filelessntdllreflection.md)
+  * [FilelessRemotePE](windows/scripts/filelessremotepe.md)
+  * [ExecRemoteAssembly](windows/scripts/execremoteassembly.md)
 
 ## Offensive Programming
 
