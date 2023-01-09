@@ -63,11 +63,17 @@
 ## C2
 
 * [🔴 Cobalt Strike](c2/cobalt-strike/README.md)
+  * [Articles & Instructions](c2/cobalt-strike/articles-and-instructions.md)
+  * [Resources](c2/cobalt-strike/resources/README.md)
+    * [Command Reference](c2/cobalt-strike/resources/command-reference.md)
+    * [Aggressor Scripts](c2/cobalt-strike/resources/aggressor-scripts.md)
+    * [RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity/tree/master/01-CobaltStrike)
   * [Videos](c2/cobalt-strike/videos.md)
 
 ## WINDOWS
 
 * [Active Directory Attack Map](windows/active-directory/active-directory-tool/active-directory-attack-map.md)
+* [WADCOMS](https://wadcoms.github.io/)
 * [🟢 Recon](windows/recon.md)
 * [🟢 Enumeration](windows/enumeration.md)
   * [No Credentials](windows/active-directory/active-directory-tool/no-credentials.md)
@@ -207,11 +213,22 @@
   * [Inveigh](windows/tools/inveigh.md)
   * [Rubeus](windows/tools/rubeus.md)
   * [Ligolo / SSH Tunneling](windows/tools/ligolo-ssh-tunneling.md)
+  * [FilelessNTDllReflection](windows/tools/filelessntdllreflection.md)
+  * [FilelessRemotePE](windows/tools/filelessremotepe.md)
+  * [ExecRemoteAssembly](windows/tools/execremoteassembly.md)
+  * [Certipy](windows/tools/certipy.md)
 * [✍ Scripts](windows/scripts.md)
+
+## Offensive Programming
+
+* [RUST](offensive-programming/rust/README.md)
+  * [Links](offensive-programming/rust/links.md)
 
 ## LINUX
 
-* [Linux Terminal Commands](linux/linux-terminal-commands.md)
+* [Linux Terminal Commands](linux/linux-terminal-commands/README.md)
+  * [Git Cheat Sheet](linux/linux-terminal-commands/git-cheat-sheet.md)
+  * [Grep Cheat Sheet](linux/linux-terminal-commands/grep-cheat-sheet.md)
 * [Path to Root](linux/path-to-root.md)
 * [Bash Cheat Sheet](linux/bash-cheat-sheet.md)
 * [Priv Esc](linux/priv-esc/README.md)
@@ -253,6 +270,10 @@
   * [VIM](common-tools-and-commands/editors/vim.md)
 * [Misc Tools](common-tools-and-commands/misc-tools/README.md)
   * [ChatGPT](common-tools-and-commands/misc-tools/chatgpt.md)
+
+## NETWORKING
+
+* [Subnetting Cheat Sheet](networking/subnetting-cheat-sheet.md)
 
 ## SCRIPTS
 

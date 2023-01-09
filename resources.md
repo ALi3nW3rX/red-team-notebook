@@ -20,9 +20,17 @@ https://offensivedefence.co.uk/
 https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html
 #Active Directory Cheat Sheet
 https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
-
+#RedTeam-Offensive Security
+https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 ```
 {% endcode %}
+
+### Github Tool Creators to Watch
+
+```powershell
+#D1rkMtr
+https://github.com/D1rkMtr
+```
 
 ### Install Obsidian on Kali
 
