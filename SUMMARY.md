@@ -212,14 +212,15 @@
     * [Skeleton Key](windows/tools/mimikatz.ps1/skeleton-key.md)
   * [Inveigh](windows/tools/inveigh.md)
   * [Rubeus](windows/tools/rubeus.md)
+  * [LaZagne](windows/tools/lazagne.md)
   * [Ligolo / SSH Tunneling](windows/tools/ligolo-ssh-tunneling.md)
   * [SQLRecon](windows/tools/sqlrecon.md)
   * [Forensia](windows/tools/forensia.md)
   * [Certipy](windows/tools/certipy.md)
-* [✍ Scripts](windows/scripts/README.md)
-  * [FilelessNTDllReflection](windows/scripts/filelessntdllreflection.md)
-  * [FilelessRemotePE](windows/scripts/filelessremotepe.md)
-  * [ExecRemoteAssembly](windows/scripts/execremoteassembly.md)
+* [✍ Scripts](windows/scripts.md)
+  * [FilelessNTDllReflection](windows/tools/filelessntdllreflection.md)
+  * [FilelessRemotePE](windows/tools/filelessremotepe.md)
+  * [ExecRemoteAssembly](windows/tools/execremoteassembly.md)
 
 ## Offensive Programming
 
