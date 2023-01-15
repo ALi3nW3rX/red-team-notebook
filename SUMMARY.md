@@ -214,6 +214,7 @@
   * [Inveigh](windows/tools/inveigh.md)
   * [LaZagne](windows/tools/lazagne.md)
   * [Ligolo / SSH Tunneling](windows/tools/ligolo-ssh-tunneling.md)
+  * [LinWinPwn](windows/tools/linwinpwn.md)
   * [MimiKatz.ps1](windows/tools/mimikatz.ps1/README.md)
     * [Golden Ticket](windows/tools/mimikatz.ps1/golden-ticket.md)
     * [Silver Ticket](windows/tools/mimikatz.ps1/silver-ticket.md)
