@@ -60,6 +60,10 @@
           * [Page 1](education/courses/paid-courses/hack-the-box/cpts/active-directory-enumeration-and-attacks/page-1.md)
         * [Page 2](education/courses/paid-courses/hack-the-box/cpts/page-2.md)
 
+## Reverse Shells
+
+* [revshells.com](https://www.revshells.com/)
+
 ## C2
 
 * [🔴 Cobalt Strike](c2/cobalt-strike/README.md)
@@ -73,7 +77,7 @@
 ## WINDOWS
 
 * [Active Directory Attack Map](windows/active-directory/active-directory-tool/active-directory-attack-map.md)
-* [WADCOMS](https://wadcoms.github.io/)
+* [Wadcoms](https://wadcoms.github.io/)
 * [🟢 Recon](windows/recon.md)
 * [🟢 Enumeration](windows/enumeration.md)
   * [No Credentials](windows/active-directory/active-directory-tool/no-credentials.md)
