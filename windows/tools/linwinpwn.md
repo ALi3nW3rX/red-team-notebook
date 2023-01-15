@@ -33,4 +33,18 @@ linWinPwn is particularly useful when you have access to an Active Directory env
 ./linWinPwn.sh -t <Domain_Controller_IP> -u <username> -p <password> -d <domain name>
 ```
 
+## SSH Tunneling & Proxychains
+
+On the Windows host, run using PowerShell:
+
+```
+ssh kali@<linux_machine> -R 1080 -NCqf
+```
+
+On the Linux machine, first update `/etc/proxychains4.conf` to include `socks5 127.0.0.1 1080`, then run:
+
+```
+proxychains ./linWinPwn.sh -t <Domain_Controller_IP>
+```
+
 {% embed url="https://github.com/lefayjey/linWinPwn" %}
