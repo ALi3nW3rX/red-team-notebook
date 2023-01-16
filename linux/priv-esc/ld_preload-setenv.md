@@ -43,4 +43,4 @@ void _init() {
 sudo LD_PRELOAD=/tmp/shell.so /usr/bin/ping
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
