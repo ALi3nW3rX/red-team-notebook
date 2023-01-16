@@ -133,6 +133,7 @@
 * [🔧 Tools](windows/tools/README.md)
   * [BloodHound](windows/tools/bloodhound.md)
   * [Certipy](windows/tools/certipy.md)
+  * [Commando-VM](windows/tools/commando-vm.md)
   * [CrackMapExec](windows/tools/crackmapexec/README.md)
     * [CME Quick Reference](windows/tools/crackmapexec/cme-quick-reference.md)
     * [Protocols](windows/tools/crackmapexec/protocols/README.md)
